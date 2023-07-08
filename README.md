@@ -3,5 +3,7 @@ Python pipeline for preprocessing EEG data, and classifying MDD data from HBN us
 
 This work is a joint contribution of Dr. Amir Jahanian Najafabadi and Mr. Khaled Bagh. 
 
+Citation:
+
 Najafabadi, Amir J., and Khaled Bagh. “Resting-state EEG Classiﬁcation of Children and Adolescents Diagnosed with Major Depression Disorder Using Convolutional Neural Network.” PsyArXiv, 4 July 2023. Web.
 
